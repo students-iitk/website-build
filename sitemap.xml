@@ -2,28 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://172.31.1.108:1/gymkhana/cells/</loc>
+    <loc>http://172.31.1.108:75/cells/</loc>
     <priority>0</priority>
   </url><url>
-    <loc>http://172.31.1.108:1/gymkhana/contact/</loc>
+    <loc>http://172.31.1.108:75/contact/</loc>
     <priority>0</priority>
   </url><url>
-    <loc>http://172.31.1.108:1/gymkhana/councils/</loc>
+    <loc>http://172.31.1.108:75/councils/</loc>
     <priority>0</priority>
   </url><url>
-    <loc>http://172.31.1.108:1/gymkhana/fest/</loc>
+    <loc>http://172.31.1.108:75/fest/</loc>
     <priority>0</priority>
   </url><url>
-    <loc>http://172.31.1.108:1/gymkhana/mentorship/</loc>
+    <loc>http://172.31.1.108:75/mentorship/</loc>
     <priority>0</priority>
   </url><url>
-    <loc>http://172.31.1.108:1/gymkhana/students-senate/</loc>
+    <loc>http://172.31.1.108:75/students-senate/</loc>
     <priority>0</priority>
   </url><url>
-    <loc>http://172.31.1.108:1/gymkhana/categories/</loc>
+    <loc>http://172.31.1.108:75/categories/</loc>
   </url><url>
-    <loc>http://172.31.1.108:1/gymkhana/</loc>
+    <loc>http://172.31.1.108:75/</loc>
   </url><url>
-    <loc>http://172.31.1.108:1/gymkhana/tags/</loc>
+    <loc>http://172.31.1.108:75/tags/</loc>
   </url>
 </urlset>
