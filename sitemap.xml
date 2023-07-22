@@ -2,28 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://students.iitk.ac.in/gymkhana/cells/</loc>
+    <loc>http://172.31.1.108:1/gymkhana/cells/</loc>
     <priority>0</priority>
   </url><url>
-    <loc>https://students.iitk.ac.in/gymkhana/contact/</loc>
+    <loc>http://172.31.1.108:1/gymkhana/contact/</loc>
     <priority>0</priority>
   </url><url>
-    <loc>https://students.iitk.ac.in/gymkhana/councils/</loc>
+    <loc>http://172.31.1.108:1/gymkhana/councils/</loc>
     <priority>0</priority>
   </url><url>
-    <loc>https://students.iitk.ac.in/gymkhana/fest/</loc>
+    <loc>http://172.31.1.108:1/gymkhana/fest/</loc>
     <priority>0</priority>
   </url><url>
-    <loc>https://students.iitk.ac.in/gymkhana/mentorship/</loc>
+    <loc>http://172.31.1.108:1/gymkhana/mentorship/</loc>
     <priority>0</priority>
   </url><url>
-    <loc>https://students.iitk.ac.in/gymkhana/students-senate/</loc>
+    <loc>http://172.31.1.108:1/gymkhana/students-senate/</loc>
     <priority>0</priority>
   </url><url>
-    <loc>https://students.iitk.ac.in/gymkhana/categories/</loc>
+    <loc>http://172.31.1.108:1/gymkhana/categories/</loc>
   </url><url>
-    <loc>https://students.iitk.ac.in/gymkhana/</loc>
+    <loc>http://172.31.1.108:1/gymkhana/</loc>
   </url><url>
-    <loc>https://students.iitk.ac.in/gymkhana/tags/</loc>
+    <loc>http://172.31.1.108:1/gymkhana/tags/</loc>
   </url>
 </urlset>
